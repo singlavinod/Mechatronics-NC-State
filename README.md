@@ -1,6 +1,6 @@
 ## Mechatronics Project Fall-2017
 
-The objective of this project is to design and implement a PID control for a Lego Mindstorms EV3 Unmanned Vehicle (UV) for different set of tasks. The Tasks laid out are namely:
+The objective of this project is to design and implement a PID controller for a Lego Mindstorms EV3 Unmanned Vehicle (UV) for different set of tasks. The Tasks laid out are namely:
 
 1. Path Tracking: Implement a PID control for the UV to move from point A with coordinate (xA, yA) to Point B (xB, yB) as fast as possible by tracking a given path r;
 
