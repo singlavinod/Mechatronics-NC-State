@@ -11,3 +11,5 @@ The objective of this project is to design and implement a PID control for a Leg
 The Report.pdf contains detailed discussion on how this was accomplished.
 
 *Thanks to Dheeraj and Ojas for help in the project*
+
+![IMG](http://i66.tinypic.com/fk0k76.png)
