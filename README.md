@@ -10,6 +10,6 @@ The objective of this project is to design and implement a PID controller for a 
 
 The Report.pdf contains detailed discussion on how this was accomplished.
 
-*Thanks to Dheeraj and Ojas for help in the project*
+*My role in the project was to devise a path tracking strategy, tune parking/platooning algorithms and write the project report*
 
 ![IMG](http://i66.tinypic.com/fk0k76.png)
